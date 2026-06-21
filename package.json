@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "VS Code extension auth — vscode.authentication API + Firebase ID-token mint via REST + secure-storage via context.secrets. Peer-deps on @chirag127/auth-core.",
   "type": "module",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "author": "Chirag Singhal <chirag@oriz.in>",
   "homepage": "https://github.com/chirag127/auth-vsc-npm-pkg#readme",
   "repository": { "type": "git", "url": "git+https://github.com/chirag127/auth-vsc-npm-pkg.git" },
